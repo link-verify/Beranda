@@ -1,0 +1,6 @@
+{
+  "name": "AbsensiQR Toko & Staff",
+  "description": "Sistem Absensi Online Barcode Dinamis Anti-Curang Toko dengan Geofencing GPS Real-time, Manajemen Karyawan, Notifikasi On-Time, dan Ekspor Laporan Excel/PDF.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
